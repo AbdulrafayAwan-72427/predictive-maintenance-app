@@ -18,3 +18,6 @@ predictive-maintenance-app/
 1. Clone the repository and install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictive-maintenance-app-e5l5xlrzb2kxr48lggepue.streamlit.app/)
